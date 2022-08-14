@@ -1,23 +1,23 @@
 <h1 align="center">Hi ✌️, I'm Ritik Raj Pandey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/pratik_srivasta" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_srivasta?logo=twitter&style=for-the-badge" alt="pratik_srivasta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RitikRajPande12" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_srivasta?logo=twitter&style=for-the-badge" alt="Ritik Raj pandey" /></a> </p>
 
-<!-- - 🔭 I’m currently working on [Drone Short](https://github.com/pratiksrivastava01/Drone) -->
+<!-- - 🔭 I’m currently working on [API]() -->
 
-- 🌱 I’m currently learning *JavaScript, R
+- 🌱 I’m currently learning *JavaScript, node js,react,full stack
 
 - 👯 I’m looking to collaborate on *React Projects*
 
-- 📫 How to reach me *srivastavapratik35@gmail.com*
+- 📫 How to reach me *ritikphenomenon@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pratik_srivasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratik_srivasta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pratik srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik srivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik_srivastava__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik_srivastava_" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/pratik_srivastava_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pratik_srivastava_" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/srivastava2191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srivastava2191" height="30" width="40" /></a>
+<a href="https://twitter.com/RitikRajPande12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ritik RAj pandey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritikraj-pandey-b67a17221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritik RAj pandey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ritikphenomenon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ritik RAj pandey" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/Ritik_1p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ritik RAj Pandey" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/Ritikrajpandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ritik raj pandey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

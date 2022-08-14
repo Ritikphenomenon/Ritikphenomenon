@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Ritik Raj Pandey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/RitikRajPande12" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_srivasta?logo=twitter&style=for-the-badge" alt="Ritik Raj pandey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RitikRajPande12" target="blank"><img src="https://img.shields.io/twitter/follow/RItik raj pandey?logo=twitter&style=for-the-badge" alt="Ritik Raj pandey" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [API]() -->
 

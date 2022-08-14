@@ -1,11 +1,11 @@
-<h1 align="center">Hi ✌️, I'm Pratik Srivastava</h1>
+<h1 align="center">Hi ✌️, I'm Ritik Raj Pandey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/pratik_srivasta" target="blank"><img src="https://img.shields.io/twitter/follow/pratik_srivasta?logo=twitter&style=for-the-badge" alt="pratik_srivasta" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Drone Short](https://github.com/pratiksrivastava01/Drone) -->
 
-- 🌱 I’m currently learning *JavaScript, React*
+- 🌱 I’m currently learning *JavaScript, R
 
 - 👯 I’m looking to collaborate on *React Projects*
 

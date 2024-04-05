@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ritikphenomenon@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/18jvbKHK54OjlqpKyYjV313DJ2w5aomVs](https://drive.google.com/drive/folders/18jvbKHK54OjlqpKyYjV313DJ2w5aomVs)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o5_kaIQT-HyOBMo65mFh7jvHSc_bMt_z/view?usp=sharing]
 
 - ⚡ Fun fact **I am funny 😄**
 
